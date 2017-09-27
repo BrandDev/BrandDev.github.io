@@ -10,9 +10,6 @@ h2 {
     font-family: "Source Sans Pro", Helvetica, sans-serif
 }
 
-.header-site{
-   background-color: #000000;
-   background-image: url(images/headerimage.jpg); 
-   background-position: 100% 100%;
-   background-repeat: no-repeat;
+.main-header {
+  text-align: center;
 }
