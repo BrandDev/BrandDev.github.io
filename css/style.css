@@ -1,6 +1,7 @@
 @import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400";
 
 h1 {
+    background-image:url(../images/headerimage.jpg);
     text-align: center;
     font-family: "Source Sans Pro", Helvetica, sans-serif
 }
@@ -8,12 +9,4 @@ h1 {
 h2 {
     text-align: center;
     font-family: "Source Sans Pro", Helvetica, sans-serif
-}
-
-header {
-  background-image:url(../images/headerimage.jpg);
-  height: 100%;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-position: center;
 }
