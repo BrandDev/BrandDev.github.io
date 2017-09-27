@@ -1,9 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:500,900,100,300,700,400);
+@import url('https://fonts.googleapis.com/css?family=Saira');
 
 h1 {
     text-align: center;
     color: #fff;
-    font-family: "Roboto", sans-serif;
+    font-family: 'Saira', sans-serif;
     font-size: 15pt;
     top: 150px;
 }
@@ -11,7 +11,7 @@ h1 {
 h2 {
     text-align: center;
     color: #fff;
-    font-family: "Roboto", sans-serif;
+    font-family: 'Saira', sans-serif;
     font-size: 15pt;
 }
 
