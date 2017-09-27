@@ -1,11 +1,5 @@
 @import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400";
 
-<div><center><div class="mainicon"><img src="css/images/branddev.jpg" alt="branddev icon" height="130" width="130"></center></div>
-
-.mainicon {
-    border-radius: 50%;
-}
-
 h1 {
     text-align: center;
     color: #fff;
@@ -21,6 +15,7 @@ h2 {
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     font-size: 20px;
     font-weight: 300;
+    line-height: 1.65;
 }
 
 body { 
