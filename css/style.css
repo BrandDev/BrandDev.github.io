@@ -9,3 +9,14 @@ h2 {
     text-align: center;
     font-family: "Source Sans Pro", Helvetica, sans-serif
 }
+
+header {
+  background-image:url(../images/headerimage.jpg);
+  height: 800px;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  overflow: hidden;
+  position: relative;
+}
