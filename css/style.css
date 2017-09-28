@@ -63,7 +63,7 @@ body {
     color: gray;
 }
 
-div.projectsbutton {
+.projectsbutton {
     color: #fff;
     backgroundcolor: transparent;
     border: 1px solid;
