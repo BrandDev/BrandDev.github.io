@@ -70,6 +70,7 @@ body {
     border: 1px solid;
     border-radius: 8px;
     padding: 15px 32px;
+    min-width: 9.25em;
     text-decoration: none;
     display: inline-block;
     font-size: 20px;
