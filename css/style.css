@@ -44,7 +44,7 @@ body {
 
 /* Add a hover effect */
 .fa:hover {
-    opacity: 0.5;
+    opacity: 1.0;
 }
 
 .fa-twitter {
