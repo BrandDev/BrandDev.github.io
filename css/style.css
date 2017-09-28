@@ -67,7 +67,8 @@ body {
 
 /* Style the links inside the navigation bar */
 .topnav a {
-    float: left;
+    float: center;
+    padding: 20px;
     color: gray;
     text-align: center;
     text-decoration: none;
