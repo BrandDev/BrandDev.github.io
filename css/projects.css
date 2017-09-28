@@ -20,6 +20,10 @@ body {
     margin-top: 50px;
 }
 
+div.projects {
+    margin-top: 100px;
+}
+
 div.terms {
     display:block;
     position:absolute;
