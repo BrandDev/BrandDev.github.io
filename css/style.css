@@ -61,8 +61,12 @@ body {
     color: gray;
 }
 
-footer {
-    text-align: center;
+div.terms {
+    display:block;
+    position:absolute;
+    bottom:0;
+    right:0;
+    width:100%;
     color: #fff;
     font-family: "Source Sans Pro", Helvetica, sans-serif;
 }
