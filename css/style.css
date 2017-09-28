@@ -30,7 +30,7 @@ body {
 .fa {
     padding: 20px;
     font-size: 30px;
-    //width: 30px;
+    width: 20px;
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
@@ -41,16 +41,12 @@ body {
     opacity: 0.7;
 }
 
-/* Set a specific color for each brand */
-
-/* Facebook */
-.fa-facebook {
+.fa-twitter {
     background: #fff;
     color: gray;
 }
 
-/* Twitter */
-.fa-twitter {
+.fa-github {
     background: #fff;
     color: gray;
 }
