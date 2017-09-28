@@ -65,7 +65,7 @@ body {
 
 /* Navbar links */
 .topnav {
-  float: left;
+  //float: center;
   display: block;
   color: gray;
   text-align: center;
