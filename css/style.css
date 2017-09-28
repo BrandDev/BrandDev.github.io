@@ -70,7 +70,7 @@ body {
     border: 1px solid;
     border-radius: 8px;
     padding: 15px 32px;
-    min-width: 8.0em;
+    min-width: 7.0em;
     text-decoration: none;
     display: inline-block;
     font-size: 20px;
@@ -80,8 +80,9 @@ body {
 }
 
 .projectsbutton:hover {
-    background-color: #fff; /* Green */
+    background-color: #fff;
     opacity: 0.3;
+    color: white;
 }
 
 div.terms {
