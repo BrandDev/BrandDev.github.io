@@ -64,15 +64,18 @@ body {
 }
 
 div.projectsbutton {
-    border: none;
     color: white;
     backgroundcolor: transparent;
-    border-radius: 1px #fff;
+    border-style: solid;
+    border-radius: 1x #fff;
+    border-radius: 5px;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 20px;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    cursor: pointer;
 }
 
 div.terms {
