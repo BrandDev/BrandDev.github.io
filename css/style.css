@@ -55,30 +55,3 @@ body {
     background: #fff;
     color: gray;
 }
-
-/* Add a background color to the top navigation */
-.topnav {
-    background-color: #fff;
-    overflow: hidden;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-/* Style the links inside the navigation bar */
-.topnav a {
-    float: center;
-    padding: 20px;
-    color: gray;
-    text-align: center;
-    text-decoration: none;
-    font-size: 17px;
-    font-family: "Source Sans Pro", Helvetica, sans-serif;
-    display: block;
-}
-
-/* Change the color of links on hover */
-.topnav a:hover {
-    background-color: #fff;
-    color: lightgray;
-}
