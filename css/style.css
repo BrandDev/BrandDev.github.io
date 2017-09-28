@@ -39,11 +39,12 @@ body {
     text-decoration: none;
     border-radius: 50%;
     margin: 15px;
+    opacity: 0.7;
 }
 
 /* Add a hover effect */
 .fa:hover {
-    opacity: 0.7;
+    opacity: 0.5;
 }
 
 .fa-twitter {
