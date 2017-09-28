@@ -56,9 +56,10 @@ body {
     color: gray;
 }
 
-/* Add a black background color to the top navigation */
+/* Add a background color to the top navigation */
 .topnav {
     background-color: #fff;
+    overflow: hidden;
 }
 
 /* Style the links inside the navigation bar */
