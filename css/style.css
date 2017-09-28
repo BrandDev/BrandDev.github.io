@@ -28,7 +28,7 @@ body {
     background-attachment: fixed;
     background-position: center top; 
     background-size: 100%;
-    margin-top: 80px;
+    margin-top: 50px;
 }
 
 /* Style all font awesome icons */
@@ -75,7 +75,7 @@ body {
     font-size: 20px;
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     cursor: pointer;
-    top-margin: 100;
+    margin-top: 55px;
 }
 
 div.terms {
