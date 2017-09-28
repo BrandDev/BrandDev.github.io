@@ -60,6 +60,9 @@ body {
 .topnav {
     background-color: #fff;
     overflow: hidden;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 /* Style the links inside the navigation bar */
