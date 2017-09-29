@@ -67,7 +67,8 @@ body {
 
 /* Add a hover effect */
 .fa:hover {
-    opacity: 0.7;
+    background-color: #92deb7;
+    border: none;
 }
 
 .fa-twitter {
