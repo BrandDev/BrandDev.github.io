@@ -12,7 +12,10 @@
     font-size: 15px;
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     cursor: pointer;
-    margin: 1px 1px;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
 }
 
 .projectsbutton:hover {
