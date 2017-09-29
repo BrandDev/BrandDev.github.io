@@ -1,1 +1,31 @@
+@import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400";
 
+h1 {
+    text-align: center;
+    color: #fff;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: 300;
+    line-height: 1.65;
+    padding: 0px;
+    margin: 0px;
+}
+
+body { 
+    background-image: url('images/loginbg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top; 
+    background-size: 100%;
+    margin-top: 50px;
+}
+
+div.terms {
+    display:block;
+    position:absolute;
+    bottom:0;
+    right:0;
+    width:100%;
+    color: #fff;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+}
