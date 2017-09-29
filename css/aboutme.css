@@ -32,8 +32,7 @@ h1 {
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     font-size: 50px;
     font-weight: 300;
-    line-height: 1.65;
-    margin-top: 
+    line-height: 1.65; 
 }
 
 body { 
@@ -51,7 +50,10 @@ p {
     font-size: 28px;
     font-weight: 300;
     line-height: 1.65;
-    padding: 0px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
 }
 .backbutton {
     color: #fff;
