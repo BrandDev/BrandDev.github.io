@@ -1,8 +1,10 @@
 @import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400";
+
 nav {
     margin-top: -40px;
     color: white;
 }
+
 .nav {
     color: #fff;
     text-decoration: none;
