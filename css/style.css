@@ -1,6 +1,6 @@
 @import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400";
 
-.navhome {
+.nav {
     color: #fff;
     backgroundcolor: transparent;
     border: 1px solid;
@@ -12,11 +12,11 @@
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     cursor: pointer;
     text-align: center;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
-.navhome:hover {
+.nav:hover {
     opacity: 0.7;
 }
 
