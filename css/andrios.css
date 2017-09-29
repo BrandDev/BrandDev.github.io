@@ -1,0 +1,20 @@
+@import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400";
+
+body { 
+    background-image: url('images/andriosbg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top; 
+    background-size: 100%;
+    margin-top: 50px;
+}
+
+div.terms {
+    display:block;
+    position:absolute;
+    bottom:0;
+    right:0;
+    width:100%;
+    color: #fff;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+}
