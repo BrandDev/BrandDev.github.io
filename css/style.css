@@ -5,10 +5,6 @@ nav {
 }
 .nav {
     color: #fff;
-    backgroundcolor: transparent;
-    border: 1px solid;
-    border-radius: 8px;
-    padding: 5px 20px;
     text-decoration: none;
     display: inline-block;
     font-size: 15px;
@@ -95,7 +91,6 @@ body {
 
 .projectsbutton {
     color: #fff;
-    backgroundcolor: transparent;
     border: 1px solid;
     border-radius: 8px;
     padding: 10px 20px;
@@ -110,6 +105,7 @@ body {
 
 .projectsbutton:hover {
     background-color: #92deb7;
+    border: none;
 }
 
 div.terms {
