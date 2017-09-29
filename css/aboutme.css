@@ -45,6 +45,14 @@ body {
     margin-top: 50px;
 }
 
+p {
+    text-align: center;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 300;
+    line-height: 1.65;
+    padding: 0px;
+}
 .backbutton {
     color: #fff;
     border: 1px solid;
