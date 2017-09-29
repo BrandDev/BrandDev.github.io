@@ -97,13 +97,12 @@ div.talus {
     border: 1px solid;
     border-radius: 8px;
     padding: 10px 20px;
-    min-width: 5.0em;
     text-decoration: none;
     display: inline-block;
     font-size: 20px;
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     cursor: pointer;
-    margin-top: 70px;
+    margin-top: 270px;
 }
 
 .backbutton:hover {
