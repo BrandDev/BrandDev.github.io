@@ -39,6 +39,18 @@ div.andrios {
     margin-right: 10px;
 }
 
+div.rn {
+    float:left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+div.talus {
+    float:left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
 div.terms {
     display:block;
     position:absolute;
