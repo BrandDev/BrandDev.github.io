@@ -31,25 +31,40 @@ div.login {
     float:left;
     margin-left: 10px;
     margin-right: 10px;
+    
     color: #fff;
+    font-size: 20px;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
 }
 
 div.andrios {
     float:left;
     margin-left: 10px;
     margin-right: 10px;
+    
+    color: #fff;
+    font-size: 20px;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
 }
 
 div.rn {
     float:left;
     margin-left: 10px;
     margin-right: 10px;
+   
+    color: #fff;
+    font-size: 20px;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
 }
 
 div.talus {
     float:left;
     margin-left: 10px;
     margin-right: 10px;
+    
+    color: #fff;
+    font-size: 20px;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
 }
 
 div.terms {
