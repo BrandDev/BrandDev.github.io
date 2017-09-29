@@ -1,7 +1,7 @@
 @import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400";
 nav {
     margin-top: -40px;
-    margin-left: -10px;
+    color: white;
 }
 .nav {
     color: #fff;
@@ -11,6 +11,7 @@ nav {
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     cursor: pointer;
     text-align: center;
+    padding: 5px
     margin-left: 5px;
     margin-right: 5px;
 }
