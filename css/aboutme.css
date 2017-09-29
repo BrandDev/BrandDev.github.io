@@ -1,0 +1,74 @@
+@import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400";
+
+nav {
+    margin-top: -40px;
+    color: white;
+}
+
+.nav {
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    cursor: pointer;
+    text-align: center;
+    padding: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.nav:hover {
+    color: #92deb7;
+}
+
+header {
+    margin-top: 25px;
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: 300;
+    line-height: 1.65;
+    margin-top: 
+}
+
+body { 
+    background-image: url('images/headerimage.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top; 
+    background-size: 100%;
+    margin-top: 50px;
+}
+
+.backbutton {
+    color: #fff;
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    cursor: pointer;
+    margin-top: 270px;
+}
+
+.backbutton:hover {
+    background-color: #92deb7;
+    border: none;
+}
+
+div.terms {
+    display:block;
+    position:absolute;
+    bottom:0;
+    right:0;
+    width:100%;
+    color: #fff;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+}
