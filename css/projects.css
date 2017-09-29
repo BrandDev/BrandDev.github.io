@@ -1,5 +1,27 @@
 @import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400";
 
+nav {
+    margin-top: -40px;
+    color: white;
+}
+
+.nav {
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    cursor: pointer;
+    text-align: center;
+    padding: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.nav:hover {
+    color: #92deb7;
+}
+
 h1 {
     text-align: center;
     color: #fff;
