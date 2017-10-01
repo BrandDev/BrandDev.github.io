@@ -117,10 +117,15 @@ html{height:100%,width:100%}
 }
 
 div.terms {
-    display:block;
-    bottom:0;
-    right:0;
-    width:100%;
+    float: right;
     color: #fff;
     font-family: "Source Sans Pro", Helvetica, sans-serif;
+}
+
+@media screen and (max-device-width: 480px) and (orientation: portrait){
+    div.terms {
+        color: #fff;
+        font-family: "Source Sans Pro", Helvetica, sans-serif;
+        float: right;
+    }
 }
