@@ -1,33 +1,23 @@
 @import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400";
 
-ul {
-    list-style-type: none;    
-    overflow: hidden;
+nav {
+    color: white;
+}
+
+.nav {
     color: #fff;
+    text-decoration: none;
+    display: inline-block;
     font-size: 15px;
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     cursor: pointer;
+    text-align: center;
+    padding: 5px;
     margin-left: 5px;
     margin-right: 5px;
 }
 
-li {
-    display: inline;
-}
-
-li {
-    float: left;
-}
-
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 5px;
-    text-decoration: none;
-}
-
-ul:hover {
+.nav:hover {
     color: #92deb7;
 }
 
