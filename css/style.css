@@ -1,14 +1,15 @@
 @import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400";
 
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    
+    list-style-type: none;    
     color: #fff;
     font-size: 15px;
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     cursor: pointer;
+    text-align: center;
+    padding: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 li {
