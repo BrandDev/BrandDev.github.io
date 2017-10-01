@@ -33,6 +33,7 @@ h1 {
     font-size: 50px;
     font-weight: 300;
     line-height: 1.65; 
+    position: fixed;
 }
 
 body { 
@@ -55,12 +56,13 @@ p {
     font-size: 25px;
     font-weight: 300;
     line-height: 1.65;
-    position: absolute;
     margin-top: 110px;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     text-indent: 50px;
+    position: fixed;
 }
+
 .backbutton {
     color: #fff;
     border: 1px solid;
@@ -72,6 +74,7 @@ p {
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     cursor: pointer;
     margin-top: 270px;
+    position: fixed;
 }
 
 .backbutton:hover {
@@ -81,7 +84,7 @@ p {
 
 div.terms {
     display:block;
-    position:absolute;
+    position: fixed;
     bottom:16px;
     right:0;
     width:100%;
