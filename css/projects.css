@@ -33,7 +33,6 @@ h1 {
     font-size: 50px;
     font-weight: 300;
     line-height: 1.65;
-    position: fixed;
 }
 
 body { 
@@ -54,7 +53,6 @@ div.projects {
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
-    position: fixed;
 }
 
 div.login {
@@ -108,7 +106,6 @@ div.talus {
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     cursor: pointer;
     margin-top: 270px;
-    position: fixed;
 }
 
 .backbutton:hover {
