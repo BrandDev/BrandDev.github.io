@@ -16,7 +16,6 @@ nav {
     padding: 5px;
     margin-left: 5px;
     margin-right: 5px;
-    position: fixed;
 }
 
 .nav:hover {
@@ -31,7 +30,6 @@ h1 {
     font-weight: 300;
     line-height: 1.65;
     margin: 0px;
-    position: fixed;
 }
 
 h2 {
@@ -43,7 +41,6 @@ h2 {
     line-height: 1.65;
     padding: 0px;
     margin-top: -10px;
-    position: fixed;
 }
 
 body { 
@@ -72,7 +69,6 @@ html{height:100%,width:100%}
     border-radius: 50%;
     margin: 5px;
     margin-top: 45px;
-    position: fixed;
 }
 
 /* Add a hover effect */
@@ -113,7 +109,6 @@ html{height:100%,width:100%}
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     cursor: pointer;
     margin-top: 70px;
-    position: fixed;
 }
 
 .projectsbutton:hover {
