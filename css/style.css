@@ -2,12 +2,6 @@
 
 nav {
     margin-top: -40px;
-    color: white;
-    display: inline-block;
-    list-style-type: none;
-}
-
-.nav {
     color: #fff;
     text-decoration: none;
     display: inline-block;
@@ -20,7 +14,7 @@ nav {
     margin-right: 5px;
 }
 
-.nav:hover {
+nav:hover {
     color: #92deb7;
 }
 
