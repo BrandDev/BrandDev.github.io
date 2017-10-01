@@ -45,10 +45,6 @@ h2 {
 
 body { 
     background-image: url('images/headerimage.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center top; 
-    background-size: 100%;
     margin-top: 50px;
 }
 
