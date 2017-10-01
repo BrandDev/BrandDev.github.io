@@ -16,6 +16,7 @@ nav {
     padding: 5px;
     margin-left: 5px;
     margin-right: 5px;
+    position: fixed;
 }
 
 .nav:hover {
@@ -33,6 +34,7 @@ h1 {
     font-size: 50px;
     font-weight: 300;
     line-height: 1.65;
+    position: fixed;
 }
 
 body { 
@@ -50,16 +52,17 @@ body {
 html{height:100%,width:100%}
 
 div.projects {
-    position: absolute;
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
+    position: fixed;
 }
 
 div.login {
     float:left;
     margin-left: 10px;
     margin-right: 10px;
+    position: fixed;
     
     color: #fff;
     font-size: 17px;
@@ -70,6 +73,7 @@ div.andrios {
     float:left;
     margin-left: 10px;
     margin-right: 10px;
+    position: fixed;
     
     color: #fff;
     font-size: 17px;
@@ -80,6 +84,7 @@ div.rn {
     float:left;
     margin-left: 10px;
     margin-right: 10px;
+    position: fixed;
    
     color: #fff;
     font-size: 17px;
@@ -90,6 +95,7 @@ div.talus {
     float:left;
     margin-left: 10px;
     margin-right: 10px;
+    position: fixed;
     
     color: #fff;
     font-size: 17px;
@@ -107,6 +113,7 @@ div.talus {
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     cursor: pointer;
     margin-top: 270px;
+    position: fixed;
 }
 
 .backbutton:hover {
@@ -116,7 +123,7 @@ div.talus {
 
 div.terms {
     display:block;
-    position:absolute;
+    position: fixed;
     bottom:0;
     right:0;
     width:100%;
