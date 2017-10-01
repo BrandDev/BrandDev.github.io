@@ -16,7 +16,6 @@ nav {
     padding: 5px;
     margin-left: 5px;
     margin-right: 5px;
-    position: fixed;
 }
 
 .nav:hover {
@@ -62,7 +61,6 @@ div.login {
     float:left;
     margin-left: 10px;
     margin-right: 10px;
-    position: fixed;
     
     color: #fff;
     font-size: 17px;
@@ -73,7 +71,6 @@ div.andrios {
     float:left;
     margin-left: 10px;
     margin-right: 10px;
-    position: fixed;
     
     color: #fff;
     font-size: 17px;
@@ -84,7 +81,6 @@ div.rn {
     float:left;
     margin-left: 10px;
     margin-right: 10px;
-    position: fixed;
    
     color: #fff;
     font-size: 17px;
@@ -95,7 +91,6 @@ div.talus {
     float:left;
     margin-left: 10px;
     margin-right: 10px;
-    position: fixed;
     
     color: #fff;
     font-size: 17px;
