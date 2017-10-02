@@ -124,12 +124,11 @@ html{height:100%,width:100%}
 .footer {
     position: absolute;
     right: 0;
-    bottom: 0;
+    bottom: 10px;
     left: 0;
     text-align: center;
     color: #fff;
     font-family: "Source Sans Pro", Helvetica, sans-serif;
-    height: 20px;
 }
 
 @media screen and (max-device-width: 480px) and (orientation: portrait){
