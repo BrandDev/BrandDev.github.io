@@ -1,8 +1,9 @@
 @import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400";
 
 nav {
-    margin-top: -40px;
     color: white;
+    margin: 5px;
+    height: 80px;
 }
 
 .nav {
