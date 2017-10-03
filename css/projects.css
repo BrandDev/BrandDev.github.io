@@ -54,41 +54,14 @@ body {
 
 html{height:100%,width:100%}
 
-div.login {
-    float:left;
-    margin-left: 10px;
-    margin-right: 10px;
-    
-    color: #fff;
-    font-size: 17px;
-    font-family: "Source Sans Pro", Helvetica, sans-serif;
+.projects {
+    text-align: center;
 }
 
-div.andrios {
-    float:left;
-    margin-left: 10px;
-    margin-right: 10px;
-    
-    color: #fff;
-    font-size: 17px;
-    font-family: "Source Sans Pro", Helvetica, sans-serif;
-}
-
-div.rn {
-    float:left;
-    margin-left: 10px;
-    margin-right: 10px;
-   
-    color: #fff;
-    font-size: 17px;
-    font-family: "Source Sans Pro", Helvetica, sans-serif;
-}
-
-div.talus {
-    float:left;
-    margin-left: 10px;
-    margin-right: 10px;
-    
+.projects a {
+    margin: 0px 20px;
+    display: inline-block;
+    text-decoration: none;
     color: #fff;
     font-size: 17px;
     font-family: "Source Sans Pro", Helvetica, sans-serif;
