@@ -63,6 +63,12 @@ p {
     width: 50%;
 }
 
+@media screen and (max-device-width: 480px){
+    p {
+        width: 80%
+    }
+}
+
 .backbutton {
     color: #fff;
     border: 1px solid;
