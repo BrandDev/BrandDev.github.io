@@ -68,6 +68,19 @@ html{height:100%,width:100%}
     font-family: "Source Sans Pro", Helvetica, sans-serif;
 }
 
+@media screen and (max-device-width: 480px) and (orientation: portrait){
+  .projects a {
+    margin: 0px 10px;
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    width: 59px;
+    height: 59px;
+}
+}
+
 .backbutton {
     color: #fff;
     border: 1px solid;
