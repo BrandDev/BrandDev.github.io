@@ -79,13 +79,3 @@ p {
     background-color: #92deb7;
     border: none;
 }
-
-div.terms {
-    display:block;
-    position: fixed;
-    bottom:16px;
-    right:0;
-    width:100%;
-    color: #fff;
-    font-family: "Source Sans Pro", Helvetica, sans-serif;
-}
