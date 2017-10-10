@@ -85,13 +85,3 @@ html{height:100%,width:100%}
     background-color: #92deb7;
     border: none;
 }
-
-.footer {
-    position: absolute;
-    right: 0;
-    bottom: 10px;
-    left: 0;
-    text-align: center;
-    color: #fff;
-    font-family: "Source Sans Pro", Helvetica, sans-serif;
-}
