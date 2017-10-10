@@ -59,6 +59,10 @@ html{height:100%,width:100%}
     margin-top: 90px;
 }
 
+.projects:hover {
+    color: #92deb7;
+}
+
 .projects a {
     margin: 0px 10px;
     display: inline-block;
