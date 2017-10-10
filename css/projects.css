@@ -59,10 +59,6 @@ html{height:100%,width:100%}
     margin-top: 90px;
 }
 
-.projects:hover {
-    color: #92deb7;
-}
-
 .projects a {
     margin: 0px 10px;
     display: inline-block;
@@ -70,6 +66,10 @@ html{height:100%,width:100%}
     color: #fff;
     font-size: 17px;
     font-family: "Source Sans Pro", Helvetica, sans-serif;
+}
+
+.projects a:hover {
+    color: #92deb7;
 }
 
 @media screen and (max-device-width: 480px) and (orientation: portrait){
