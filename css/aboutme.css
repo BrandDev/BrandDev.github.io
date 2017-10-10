@@ -60,10 +60,6 @@ p {
     font-size: 25px;
     font-weight: 300;
     line-height: 1.65;
-    margin-top: 110px;
-    left: 50%;
-    transform: translateX(-50%) translateY(-50%);
-    text-indent: 50px;
 }
 
 .backbutton {
