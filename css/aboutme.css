@@ -38,7 +38,7 @@ h1 {
 
 body { 
     background-image: url('images/headerimage.jpg');
-    margin-top: 50px;
+    margin: 0px;
     background-repeat: no-repeat; 
     background-position: center;
     background-attachment: fixed;       
@@ -46,6 +46,10 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover; 
+    
+    position: relative;
+    padding-bottom: 6rem;
+    min-height: 100%;
 }
 
 html{height:100%,width:100%}
@@ -60,7 +64,6 @@ p {
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     text-indent: 50px;
-    position: fixed;
 }
 
 .backbutton {
